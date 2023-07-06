@@ -1,6 +1,10 @@
 ### Olá! 
 
-
+<div>
+   <a href="https://github.com/dayse-guedes">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dayse-guedes_icons=true&theme=github_dark"/> 
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayse-guedes&theme=github_dark&layout=compact"/>
+</div>
 
 
 
