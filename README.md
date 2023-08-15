@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dayse</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Typescript, React, C#, Mongodb**
-
 - 📫 How to reach me **contato.dayseguedes@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/dayse-guedes/](https://www.linkedin.com/in/dayse-guedes/)
